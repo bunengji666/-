@@ -1,0 +1,44 @@
+{
+  "id": "2021443",
+  "name": "miniji",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "8507092",
+      "name": "减",
+      "font_class": "aijianfile",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "11544836",
+      "name": "加减",
+      "font_class": "jiajian11",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "16369330",
+      "name": "金奖杯",
+      "font_class": "jinjiangbei",
+      "unicode": "e73a",
+      "unicode_decimal": 59194
+    },
+    {
+      "icon_id": "16369356",
+      "name": "银奖杯",
+      "font_class": "yinjiangbei",
+      "unicode": "e741",
+      "unicode_decimal": 59201
+    },
+    {
+      "icon_id": "16369360",
+      "name": "铜奖杯",
+      "font_class": "tongjiangbei",
+      "unicode": "e742",
+      "unicode_decimal": 59202
+    }
+  ]
+}
